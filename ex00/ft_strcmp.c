@@ -6,11 +6,9 @@
 /*   By: taeheeki <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/14 01:02:49 by taeheeki          #+#    #+#             */
-/*   Updated: 2021/03/14 01:22:34 by taeheeki         ###   ########.fr       */
+/*   Updated: 2021/03/15 17:45:10 by taeheeki         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <string.h>
 
 int	ft_strcmp(char *s1, char *s2)
 {

@@ -6,11 +6,9 @@
 /*   By: taeheeki <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/15 10:39:15 by taeheeki          #+#    #+#             */
-/*   Updated: 2021/03/15 16:14:33 by taeheeki         ###   ########.fr       */
+/*   Updated: 2021/03/15 17:46:03 by taeheeki         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <string.h>
 
 char	*ft_strstr(char *str, char *to_find)
 {

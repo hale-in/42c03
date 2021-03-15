@@ -6,11 +6,9 @@
 /*   By: taeheeki <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/14 01:45:35 by taeheeki          #+#    #+#             */
-/*   Updated: 2021/03/14 18:36:27 by taeheeki         ###   ########.fr       */
+/*   Updated: 2021/03/15 17:45:46 by taeheeki         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <string.h>
 
 char	*ft_strncat(char *dest, char *src, unsigned int n)
 {
